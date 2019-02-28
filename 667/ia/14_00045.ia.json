@@ -1,0 +1,402 @@
+{
+    "analyses": [
+        {
+            "age": 27.15718762120732,
+            "age_err": 0.10209709814515512,
+            "age_err_wo_j": 0.10209709814515512,
+            "baseline_corrected_intercepts": {
+                "Ar36": {
+                    "error": 0.001704049992893757,
+                    "value": 0.4254132837797189
+                },
+                "Ar37": {
+                    "error": 0.005890772322284931,
+                    "value": 2.421729792372489
+                },
+                "Ar38": {
+                    "error": 0.0021662585558443427,
+                    "value": 1.1360499350201467
+                },
+                "Ar39": {
+                    "error": 0.020065294937529957,
+                    "value": 83.83985323379515
+                },
+                "Ar40": {
+                    "error": 0.039711915054936875,
+                    "value": 440.7745775100887
+                },
+                "Ar41": {
+                    "error": 0.0016883051991301717,
+                    "value": 0.029795339207878906
+                }
+            },
+            "blanks": {
+                "Ar36": {
+                    "error": 0.0025306768621025056,
+                    "value": 0.025402549702945698
+                },
+                "Ar37": {
+                    "error": 0.00786620718599018,
+                    "value": 0.03449851337958194
+                },
+                "Ar38": {
+                    "error": 0.004198981148223098,
+                    "value": 0.01028580551619398
+                },
+                "Ar39": {
+                    "error": 0.012217213055969865,
+                    "value": 0.01441814607864897
+                },
+                "Ar40": {
+                    "error": 0.7319127307822177,
+                    "value": 6.931643673110177
+                },
+                "Ar41": {
+                    "error": 0.0033257704726891275,
+                    "value": 0.0298623430332032
+                }
+            },
+            "extract_value": 0.25,
+            "ic_corrected_values": {
+                "Ar36": {
+                    "error": 0.0030835352429197617,
+                    "value": 0.40229967858829874
+                },
+                "Ar37": {
+                    "error": 0.009827431711587812,
+                    "value": 2.387231278992907
+                },
+                "Ar38": {
+                    "error": 0.00472484061253941,
+                    "value": 1.1257641295039527
+                },
+                "Ar39": {
+                    "error": 0.030420992914993072,
+                    "value": 83.81275660236166
+                },
+                "Ar40": {
+                    "error": 0.7329892780105407,
+                    "value": 433.84293383697855
+                },
+                "Ar41": {
+                    "error": 0.003729761880123292,
+                    "value": -6.700382532429452e-05
+                }
+            },
+            "icfactors": {
+                "Ar36": {
+                    "error": 0.0007633894469259384,
+                    "value": 1.0057222077222714
+                },
+                "Ar37": {
+                    "error": 1e-20,
+                    "value": 1.0
+                },
+                "Ar38": {
+                    "error": 1e-20,
+                    "value": 1.0
+                },
+                "Ar39": {
+                    "error": 0.00023062248286486071,
+                    "value": 0.9998487513325571
+                },
+                "Ar40": {
+                    "error": 1e-20,
+                    "value": 1.0
+                },
+                "Ar41": {
+                    "error": 1e-20,
+                    "value": 1.0
+                }
+            },
+            "interference_corrected_values": {
+                "Ar36": {
+                    "error": 0.003083568759415952,
+                    "value": 0.40106263680612325
+                },
+                "Ar37": {
+                    "error": 0.018057859535703037,
+                    "value": 4.386526244131555
+                },
+                "Ar38": {
+                    "error": 0.00472484061253941,
+                    "value": 1.1257641295039527
+                },
+                "Ar39": {
+                    "error": 0.030427635302515264,
+                    "value": 83.82790823640165
+                },
+                "Ar40": {
+                    "error": 0.7334205887901182,
+                    "value": 433.3076926428891
+                },
+                "Ar41": {
+                    "error": 0.0,
+                    "value": 0.0
+                }
+            },
+            "kca": 9.780065898157677,
+            "kca_err": 0.040931181552650464,
+            "kcl": 3865.154848044168,
+            "kcl_err": 218.34095881047017,
+            "plateau_step": false,
+            "radiogenic_yield": 72.55936628553388,
+            "radiogenic_yield_err": 0.22007166231253755,
+            "record_id": "66714-03A",
+            "tag": "ok",
+            "uuid": "353ecedf-1138-491d-b00a-708627bb1d17"
+        },
+        {
+            "age": 27.259953754238943,
+            "age_err": 0.009848545295752074,
+            "age_err_wo_j": 0.009848545295752074,
+            "baseline_corrected_intercepts": {
+                "Ar36": {
+                    "error": 0.0011740404627554493,
+                    "value": 0.17608560651941374
+                },
+                "Ar37": {
+                    "error": 0.0066242839210119125,
+                    "value": 8.655850950817861
+                },
+                "Ar38": {
+                    "error": 0.003368833749325161,
+                    "value": 13.104874179515685
+                },
+                "Ar39": {
+                    "error": 0.06709999536211372,
+                    "value": 1141.7321025755205
+                },
+                "Ar40": {
+                    "error": 0.14601043577843667,
+                    "value": 4361.511631866489
+                },
+                "Ar41": {
+                    "error": 0.0015375250230911944,
+                    "value": 0.14729125332300214
+                }
+            },
+            "blanks": {
+                "Ar36": {
+                    "error": 0.002530676862163096,
+                    "value": 0.02529147137538983
+                },
+                "Ar37": {
+                    "error": 0.00786620718599018,
+                    "value": 0.03449851337958194
+                },
+                "Ar38": {
+                    "error": 0.004198981148223098,
+                    "value": 0.01028580551619398
+                },
+                "Ar39": {
+                    "error": 0.012217213055969865,
+                    "value": 0.01441814607864897
+                },
+                "Ar40": {
+                    "error": 0.7319127466664469,
+                    "value": 6.8983894867537785
+                },
+                "Ar41": {
+                    "error": 0.0033257704726891275,
+                    "value": 0.0298623430332032
+                }
+            },
+            "extract_value": 2.25,
+            "ic_corrected_values": {
+                "Ar36": {
+                    "error": 0.002808072473526074,
+                    "value": 0.15165701050861827
+                },
+                "Ar37": {
+                    "error": 0.010283888027351354,
+                    "value": 8.62135243743828
+                },
+                "Ar38": {
+                    "error": 0.005383352441901346,
+                    "value": 13.09458837399949
+                },
+                "Ar39": {
+                    "error": 0.2758636521557973,
+                    "value": 1141.4927881127328
+                },
+                "Ar40": {
+                    "error": 0.7463345872254825,
+                    "value": 4354.613242379735
+                },
+                "Ar41": {
+                    "error": 0.0036639776791954452,
+                    "value": 0.11742891028979893
+                }
+            },
+            "icfactors": {
+                "Ar36": {
+                    "error": 0.0007633894469259384,
+                    "value": 1.0057222077222714
+                },
+                "Ar37": {
+                    "error": 1e-20,
+                    "value": 1.0
+                },
+                "Ar38": {
+                    "error": 1e-20,
+                    "value": 1.0
+                },
+                "Ar39": {
+                    "error": 0.00023412359079403406,
+                    "value": 0.9998030193280036
+                },
+                "Ar40": {
+                    "error": 1e-20,
+                    "value": 1.0
+                },
+                "Ar41": {
+                    "error": 1e-20,
+                    "value": 1.0
+                }
+            },
+            "interference_corrected_values": {
+                "Ar36": {
+                    "error": 0.0028081314668157026,
+                    "value": 0.14724067684244552
+                },
+                "Ar37": {
+                    "error": 0.018899015343781942,
+                    "value": 15.843722876595956
+                },
+                "Ar38": {
+                    "error": 0.005383352441901346,
+                    "value": 13.09458837399949
+                },
+                "Ar39": {
+                    "error": 0.2759237892018171,
+                    "value": 1141.7303232742627
+                },
+                "Ar40": {
+                    "error": 0.8211807058937023,
+                    "value": 4347.32329426563
+                },
+                "Ar41": {
+                    "error": 0.0,
+                    "value": 0.0
+                }
+            },
+            "kca": 37.19518288453887,
+            "kca_err": 0.09335513802963223,
+            "kcl": 81086.23544703882,
+            "kcl_err": 45518.48884949243,
+            "plateau_step": false,
+            "radiogenic_yield": 98.83343100079107,
+            "radiogenic_yield_err": 0.020685477018650048,
+            "record_id": "66714-03B",
+            "tag": "ok",
+            "uuid": "3a0f1610-a843-471d-982c-ac5ff9db3fd9"
+        }
+    ],
+    "name": "03",
+    "preferred": {
+        "age": 0.0,
+        "age_err": 0.0,
+        "ages": {
+            "integrated_age": 27.257913394781006,
+            "integrated_age_err": 0.048810118199735894,
+            "isochron_age": 27.262800477763506,
+            "isochron_age_err": 0.005701726635144281,
+            "plateau_age": 0.0,
+            "plateau_age_err": 0.0,
+            "weighted_age": 27.259006328984118,
+            "weighted_age_err": 0.011377759444376799
+        },
+        "arar_constants": {
+            "abundance_sensitivity": 0.0,
+            "atm4036": 295.5,
+            "atm4036_err": 0.5,
+            "atm4038": 1575.0,
+            "atm4038_err": 2.0,
+            "fixed_k3739": 0.01,
+            "fixed_k3739_err": 0.0001,
+            "lambda_Ar37": 0.01975,
+            "lambda_Ar37_err": 0.0,
+            "lambda_Ar39": 7.068e-06,
+            "lambda_Ar39_err": 0.0,
+            "lambda_Cl36": 6.308e-09,
+            "lambda_Cl36_err": 0.0,
+            "lambda_k": 5.464e-10,
+            "lambda_k_err": 0.0
+        },
+        "display_age_units": "Ma",
+        "include_j_error_in_mean": true,
+        "include_j_error_in_plateau": false,
+        "include_j_position_error": false,
+        "mswd": 0.0,
+        "nanalyses": 0,
+        "preferred_kinds": [
+            {
+                "attr": "age",
+                "error": 0.0,
+                "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "kind": "Plateau",
+                "value": 0.0,
+                "weighting": ""
+            },
+            {
+                "attr": "kca",
+                "error": 0.06761686678538285,
+                "error_kind": "SD",
+                "kind": "Plateau else Valid Integrated",
+                "value": 31.210932633181827,
+                "weighting": ""
+            },
+            {
+                "attr": "kcl",
+                "error": 7662.355254159061,
+                "error_kind": "SD",
+                "kind": "Plateau else Valid Integrated",
+                "value": 34263.56392345667,
+                "weighting": ""
+            },
+            {
+                "attr": "radiogenic_yield",
+                "error": 0.027098883963315414,
+                "error_kind": "SD",
+                "kind": "Plateau else Valid Integrated",
+                "value": 96.452952428907,
+                "weighting": ""
+            },
+            {
+                "attr": "moles_k39",
+                "error": 2.220771447043992e-17,
+                "error_kind": "SD",
+                "kind": "Plateau else Valid Integrated",
+                "value": 9.804465852085316e-14,
+                "weighting": ""
+            },
+            {
+                "attr": "signal_k39",
+                "error": 0.27759643088049907,
+                "error_kind": "SD",
+                "kind": "Plateau else Valid Integrated",
+                "value": 1225.5582315106644,
+                "weighting": ""
+            }
+        ]
+    },
+    "sample_metadata": {
+        "grainsize": "",
+        "irradiation": "NM-300",
+        "irradiation_level": "F",
+        "irradiation_position": 9,
+        "latitude": 0,
+        "lithology": "",
+        "lithology_class": "",
+        "lithology_group": "",
+        "lithology_type": "",
+        "longitude": 0,
+        "material": "Sanidine",
+        "principal_investigator": "",
+        "project": "AdvancedArgonFall2018",
+        "rlocation": "",
+        "sample": "04L-37 JM w/ inclusion"
+    },
+    "uuid": "1723bbde-0e58-4198-9c56-acb18a75a805"
+}

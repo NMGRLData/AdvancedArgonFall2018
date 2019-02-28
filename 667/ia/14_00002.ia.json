@@ -1,9 +1,9 @@
 {
     "analyses": [
         {
-            "age": 27.15718762120732,
-            "age_err": 0.10209709814515512,
-            "age_err_wo_j": 0.10209709814515512,
+            "age": 27.05196522081795,
+            "age_err": 0.10183095672511248,
+            "age_err_wo_j": 0.10183095672511248,
             "baseline_corrected_intercepts": {
                 "Ar36": {
                     "error": 0.001704049992893757,
@@ -111,45 +111,45 @@
             },
             "interference_corrected_values": {
                 "Ar36": {
-                    "error": 0.0030835687594159516,
-                    "value": 0.40106263680612325
+                    "error": 0.003083568831335368,
+                    "value": 0.4010702882022748
                 },
                 "Ar37": {
-                    "error": 0.018057859535703037,
-                    "value": 4.386526244131555
+                    "error": 0.017939369140767072,
+                    "value": 4.357742862409555
                 },
                 "Ar38": {
-                    "error": 0.00472484061253941,
-                    "value": 1.1257641295039527
+                    "error": 0.004724840612540491,
+                    "value": 1.1257555095051646
                 },
                 "Ar39": {
-                    "error": 0.030427635302515264,
-                    "value": 83.82790823640165
+                    "error": 0.03042756343201336,
+                    "value": 83.82768763313119
                 },
                 "Ar40": {
-                    "error": 0.7334205887901183,
-                    "value": 433.3076926428891
+                    "error": 0.7334205869901606,
+                    "value": 433.3076772888897
                 },
                 "Ar41": {
                     "error": 0.0,
                     "value": 0.0
                 }
             },
-            "kca": 9.780065898157677,
-            "kca_err": 0.040931181552650464,
-            "kcl": 3865.154848044168,
-            "kcl_err": 218.34095881047014,
+            "kca": 9.844837783377043,
+            "kca_err": 0.041208242888349955,
+            "kcl": 3879.757091962007,
+            "kcl_err": 220.00581486326422,
             "plateau_step": false,
-            "radiogenic_yield": 72.55936628553388,
-            "radiogenic_yield_err": 0.22007166231253758,
+            "radiogenic_yield": 72.2759597316246,
+            "radiogenic_yield_err": 0.2192699295711519,
             "record_id": "66714-03A",
             "tag": "ok",
             "uuid": "353ecedf-1138-491d-b00a-708627bb1d17"
         },
         {
-            "age": 27.259953754238943,
-            "age_err": 0.009848545295752074,
-            "age_err_wo_j": 0.009848545295752074,
+            "age": 27.257140377955807,
+            "age_err": 0.009870173988038862,
+            "age_err_wo_j": 0.009870173988038862,
             "baseline_corrected_intercepts": {
                 "Ar36": {
                     "error": 0.0011740404627554493,
@@ -257,37 +257,37 @@
             },
             "interference_corrected_values": {
                 "Ar36": {
-                    "error": 0.002808131466815703,
-                    "value": 0.14724067684244552
+                    "error": 0.002808131381932763,
+                    "value": 0.14726825995280343
                 },
                 "Ar37": {
-                    "error": 0.018899015343781942,
-                    "value": 15.843722876595956
+                    "error": 0.01877500553036312,
+                    "value": 15.739758580779586
                 },
                 "Ar38": {
-                    "error": 0.005383352441901346,
-                    "value": 13.09458837399949
+                    "error": 0.0053833524419721265,
+                    "value": 13.094473362585436
                 },
                 "Ar39": {
-                    "error": 0.27592378920181715,
-                    "value": 1141.7303232742627
+                    "error": 0.2759231389141926,
+                    "value": 1141.7272701964312
                 },
                 "Ar40": {
-                    "error": 0.8211807058937023,
-                    "value": 4347.32329426563
+                    "error": 0.8211803243999938,
+                    "value": 4347.323085460973
                 },
                 "Ar41": {
                     "error": 0.0,
                     "value": 0.0
                 }
             },
-            "kca": 37.19518288453887,
-            "kca_err": 0.09335513802963223,
-            "kcl": 81086.23544703882,
-            "kcl_err": 45518.48884949243,
+            "kca": 37.44364818670555,
+            "kca_err": 0.09445756296981635,
+            "kcl": 81362.83610704304,
+            "kcl_err": 45829.61448767505,
             "plateau_step": false,
-            "radiogenic_yield": 98.83343100079107,
-            "radiogenic_yield_err": 0.020685477018650048,
+            "radiogenic_yield": 98.82289562480149,
+            "radiogenic_yield_err": 0.020825217118115198,
             "record_id": "66714-03B",
             "tag": "ok",
             "uuid": "3a0f1610-a843-471d-982c-ac5ff9db3fd9"
@@ -295,30 +295,30 @@
     ],
     "name": "03",
     "preferred": {
-        "age": 0.0,
-        "age_err": 0.0,
+        "age": 27.24809401552991,
+        "age_err": 0.04879450001511583,
         "ages": {
-            "integrated_age": 27.257913394781006,
-            "integrated_age_err": 0.04881011819973591,
-            "isochron_age": 27.262800477763506,
-            "isochron_age_err": 0.005701726635144281,
+            "integrated_age": 27.24809401552991,
+            "integrated_age_err": 0.04879450001511584,
+            "isochron_age": 27.262824752305125,
+            "isochron_age_err": 0.00570173167418927,
             "plateau_age": 0.0,
             "plateau_age_err": 0.0,
-            "weighted_age": 27.259006328984118,
-            "weighted_age_err": 0.011377759444376799
+            "weighted_age": 27.255230728482108,
+            "weighted_age_err": 0.20335558026362177
         },
         "arar_constants": {
-            "abundance_sensitivity": 0.0,
-            "atm4036": 295.5,
-            "atm4036_err": 0.5,
-            "atm4038": 1575.0,
-            "atm4038_err": 2.0,
-            "fixed_k3739": 0.01,
-            "fixed_k3739_err": 0.0001,
-            "lambda_Ar37": 0.01975,
-            "lambda_Ar37_err": 0.0,
-            "lambda_Ar39": 7.068e-06,
-            "lambda_Ar39_err": 0.0,
+            "abundance_sensitivity": 1e-07,
+            "atm4036": 298.56,
+            "atm4036_err": 0.31,
+            "atm4038": 1583.87,
+            "atm4038_err": 3.01,
+            "fixed_k3739": 0.00013,
+            "fixed_k3739_err": 0.011,
+            "lambda_Ar37": 0.0197500001,
+            "lambda_Ar37_err": 0.01,
+            "lambda_Ar39": 7.0680001e-06,
+            "lambda_Ar39_err": 0.01,
             "lambda_Cl36": 6.308e-09,
             "lambda_Cl36_err": 0.0,
             "lambda_k": 5.464e-10,
@@ -328,55 +328,55 @@
         "include_j_error_in_mean": true,
         "include_j_error_in_plateau": true,
         "include_j_position_error": false,
-        "mswd": 0.0,
-        "nanalyses": 0,
+        "mswd": 4.021877287083799,
+        "nanalyses": 2,
         "preferred_kinds": [
             {
                 "attr": "age",
-                "error": 0.0,
-                "error_kind": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "kind": "Plateau",
-                "value": 0.0,
+                "error": 0.04879450001511584,
+                "error_kind": "SD",
+                "kind": "Total Integrated",
+                "value": 27.24809401552991,
                 "weighting": ""
             },
             {
                 "attr": "kca",
-                "error": 0.06761686678538285,
+                "error": 0.06835386745166627,
                 "error_kind": "SD",
                 "kind": "Plateau else Valid Integrated",
-                "value": 31.210932633181827,
+                "value": 31.41903304797686,
                 "weighting": ""
             },
             {
                 "attr": "kcl",
-                "error": 7662.35525415906,
+                "error": 7718.1558139895205,
                 "error_kind": "SD",
                 "kind": "Plateau else Valid Integrated",
-                "value": 34263.56392345667,
+                "value": 34388.06059904187,
                 "weighting": ""
             },
             {
                 "attr": "radiogenic_yield",
-                "error": 0.027098883963315414,
+                "error": 0.02712748446282976,
                 "error_kind": "SD",
                 "kind": "Plateau else Valid Integrated",
-                "value": 96.452952428907,
+                "value": 96.41769439232316,
                 "weighting": ""
             },
             {
                 "attr": "moles_k39",
-                "error": 2.2207714470439927e-17,
+                "error": 2.220766213066761e-17,
                 "error_kind": "SD",
                 "kind": "Plateau else Valid Integrated",
-                "value": 9.804465852085316e-14,
+                "value": 9.8044396626365e-14,
                 "weighting": ""
             },
             {
                 "attr": "signal_k39",
-                "error": 0.0,
+                "error": 0.2775957766333451,
                 "error_kind": "SD",
                 "kind": "Plateau else Valid Integrated",
-                "value": 0.0,
+                "value": 1225.5549578295625,
                 "weighting": ""
             }
         ]
@@ -386,17 +386,17 @@
         "irradiation": "NM-300",
         "irradiation_level": "F",
         "irradiation_position": 9,
-        "latitude": 0.0,
-        "lithology": null,
-        "lithology_class": null,
-        "lithology_group": null,
-        "lithology_type": null,
-        "longitude": 0.0,
+        "latitude": 0,
+        "lithology": "",
+        "lithology_class": "",
+        "lithology_group": "",
+        "lithology_type": "",
+        "longitude": 0,
         "material": "Sanidine",
-        "principal_investigator": "Zimmerer, M",
+        "principal_investigator": "",
         "project": "AdvancedArgonFall2018",
         "rlocation": "",
         "sample": "04L-37 JM w/ inclusion"
     },
-    "uuid": "33eb333d-f9b0-4622-bd46-6cc817f77b2f"
+    "uuid": "cfacf9f3-ca61-4fbf-a11f-0cac0105e170"
 }

@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.001102611820278616,
+        "error": 0.0011026118202787439,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -12,7 +12,7 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 0.191175336447163
+        "value": 0.19117533644716334
     },
     "Ar37": {
         "error": 0.006750201198185213,
@@ -27,10 +27,10 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 5.8514507939262
+        "value": 5.8514507939262055
     },
     "Ar38": {
-        "error": 0.0030617211190859675,
+        "error": 0.0030617211190859693,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -42,10 +42,10 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 10.73016552166089
+        "value": 10.730165521660892
     },
     "Ar39": {
-        "error": 0.05490199277154482,
+        "error": 0.05490199277155611,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -57,10 +57,10 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 927.2518050135991
+        "value": 927.2518050136047
     },
     "Ar40": {
-        "error": 0.13021176012602587,
+        "error": 0.1302117601260319,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -72,17 +72,21 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 3554.040503556409
+        "value": 3554.0405035564113
     },
     "Ar41": {
-        "error": 0.003658451677997151,
+        "error": 0.0016527433755313117,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "linear",
-        "value": 0.06875579756153016
+        "fit": "Average",
+        "fn": 267,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.063410288626363
     }
 }

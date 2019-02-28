@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.0005070723096291443,
+        "error": 0.0005070723096291424,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -15,7 +15,7 @@
         "value": 0.04049535210600831
     },
     "Ar37": {
-        "error": 0.006547122401533677,
+        "error": 0.006547122401533674,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -27,7 +27,7 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 2.833514282333207
+        "value": 2.8335142823332076
     },
     "Ar38": {
         "error": 0.0027805698365778414,
@@ -42,10 +42,10 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 8.583351856842679
+        "value": 8.583351856842683
     },
     "Ar39": {
-        "error": 0.051843263656865604,
+        "error": 0.05184326365686574,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -60,7 +60,7 @@
         "value": 746.4446191263472
     },
     "Ar40": {
-        "error": 0.10029405945686422,
+        "error": 0.10029405945686108,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -72,17 +72,21 @@
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 2824.630947691587
+        "value": 2824.6309476915826
     },
     "Ar41": {
-        "error": 0.003493370791669427,
+        "error": 0.0015704547695119685,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "linear",
-        "value": 0.05192858902948865
+        "fit": "Average",
+        "fn": 266,
+        "include_baseline_error": false,
+        "n": 280,
+        "reviewed": true,
+        "value": 0.05412301155598484
     }
 }
